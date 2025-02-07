@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Tanishq",
+        "address": "Various locations across India",
+        "phone_number": "1800-258-2598",
+        "rating": "4.5",
+        "cities": ["Mumbai", "Delhi", "Bengaluru", "Chennai", "Kolkata"]
+    },
+    {
+        "name": "Kalyan Jewellers",
+        "address": "Various locations across India and the Middle East",
+        "phone_number": "1800-425-7333",
+        "rating": "4.4",
+        "cities": ["Thrissur", "Mumbai", "Hyderabad", "Ahmedabad", "Kochi"]
+    },
+    {
+        "name": "Malabar Gold & Diamonds",
+        "address": "Various locations across India and internationally",
+        "phone_number": "1800-425-2222",
+        "rating": "4.3",
+        "cities": ["Kozhikode", "Mumbai", "Delhi", "Bengaluru", "Chennai"]
+    },
+    {
+        "name": "Bhima Jewellers",
+        "address": "Various locations in South India and the UAE",
+        "phone_number": "+91-484-236-4848",
+        "rating": "4.2",
+        "cities": ["Kochi", "Bengaluru", "Chennai", "Thiruvananthapuram", "Kozhikode"]
+    },
+    {
+        "name": "Jos Alukkas",
+        "address": "Various locations in South India",
+        "phone_number": "+91-487-244-6666",
+        "rating": "4.1",
+        "cities": ["Thrissur", "Kochi", "Chennai", "Bengaluru", "Coimbatore"]
+    },
+    {
+        "name": "Tribhovandas Bhimji Zaveri (TBZ)",
+        "address": "Various locations across India",
+        "phone_number": "+91-22-2363-4363",
+        "rating": "4.0",
+        "cities": ["Mumbai", "Delhi", "Hyderabad", "Kolkata", "Ahmedabad"]
+    },
+    {
+        "name": "PC Jeweller",
+        "address": "Various locations across India",
+        "phone_number": "+91-11-4971-4971",
+        "rating": "4.0",
+        "cities": ["New Delhi", "Mumbai", "Kolkata", "Bengaluru", "Chandigarh"]
+    },
+    {
+        "name": "Joyalukkas",
+        "address": "Various locations across India and internationally",
+        "phone_number": "1800-258-6596",
+        "rating": "4.3",
+        "cities": ["Thrissur", "Kochi", "Chennai", "Bengaluru", "Mumbai"]
+    },
+    {
+        "name": "Senco Gold & Diamonds",
+        "address": "Various locations across India",
+        "phone_number": "+91-33-4000-1188",
+        "rating": "4.2",
+        "cities": ["Kolkata", "Delhi", "Mumbai", "Bhubaneswar", "Patna"]
+    },
+    {
+        "name": "GRT Jewellers",
+        "address": "Various locations in South India",
+        "phone_number": "+91-44-2345-6789",
+        "rating": "4.1",
+        "cities": ["Chennai", "Bengaluru", "Hyderabad", "Vijayawada", "Coimbatore"]
+    }
+]
